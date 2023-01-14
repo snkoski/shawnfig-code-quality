@@ -1,6 +1,6 @@
 {
   "name": "shawnfig-code-quality",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Code quality, linting, and style rules for projects",
   "main": "index.js",
   "scripts": {

@@ -1,0 +1,27 @@
+{
+  "name": "shawnfig-code-quality",
+  "version": "1.0.0",
+  "description": "Code quality, linting, and style rules for projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snkoski/shawnfig-code-quality.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snkoski/shawnfig-code-quality/issues"
+  },
+  "homepage": "https://github.com/snkoski/shawnfig-code-quality#readme",
+  "dependencies": {
+    "eslint": "^8.31.0"
+  },
+  "devDependencies": {
+    "husky": "^8.0.0"
+  }
+}
